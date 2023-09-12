@@ -2,10 +2,12 @@
 
 Это страничка курса по математике для анализа данных, который читается в 2023-2024 годах в [магистратуре МОВС ФКН](https://www.hse.ru/ma/mlds/)
 
-- Тут будет плейлист с записями на youtube
-
 ## Полезные ссылки 
 
+- [Видео с пар](https://youtube.com/playlist?list=PLNKXA-74YGLh9YbfTm2x_VUYtPXVQ5Zsw&si=8AXoMXXVRoF1e2kf)
+- [Логи пар классной группы](https://github.com/FUlyankin/yet_another_math_for_DS/blob/main/base_log.md)
+
+ 
 - Курс по линалу от ББ
 - Конкретная математика Кнута
 - Ещё чего-нибдуь :)

@@ -26,12 +26,14 @@
 Если вы идеально решаете все задачи из этого раздела, вы получаете $50$ баллов из $100$.
 
 \begin{problem}{30}
-    Пусть $A \in \RR^{p \times m}, B \in \RR^{n \times p}, X  \in \RR^{m \times n}.$ Найдите производные следующих функций
+    Найдите производные $\nabla_X f(X)$ следующих функций
     
     \begin{enumerate}
-        \item  $f(X) = \tr(AX^TXBX^{-T})$
-        \item  $f(X) = \tr(AXB)$
-        \item  $f(X) = \det(X^TAX)$
+        \item  $f(X) = \tr(AX^TXBX^{-T}),$ где  $A, X, B \in \RR^{n \times n}$ 
+        
+        \item  $f(X) = \tr(AXB),$ где $A \in \RR^{p \times m}, B \in \RR^{n \times p}, X  \in \RR^{m \times n}.$ 
+        
+        \item  $f(X) = \det(X^TAX),$ где  $A, X \in \RR^{n \times n}.$ 
     \end{enumerate}
 \end{problem}
 
@@ -39,8 +41,10 @@
     Пусть $f(X) = \ln \det X,$ где $X \in \mathbb{R}^{n\times n}$. Найдите производную $\nabla_X f(X)$.
 \end{problem}
 
+\newpage
+
 \begin{problem}{10}
-Решите следующую задачу матричной оптимизации. Убедитесь, что найденное решение действительно является минимумом. 
+Решите следующую задачу матричной оптимизации. При решении считайте, что матрица $A$ положительно определена.
 
 \[
 f(x) = x^T A x - x^Tb + c \to \min_{x}

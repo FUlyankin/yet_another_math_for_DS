@@ -1,11 +1,11 @@
 # Логи пар прдвинутой группы
 
 
-### Посиделки 6-7: оптимизация
+## Посиделки 6-7: оптимизация
 
 
 
-### Посиделка 5: линал и стабильность вычислений
+## Посиделка 5: линал и стабильность вычислений
 
 - [Видео: стабильность вычислений](https://youtu.be/B_iE4LgeskA)
 - [Конспект с пары про стабильность вычислений](https://github.com/FUlyankin/yet_another_math_for_DS/blob/main/lectures_hand_2023/advanced_group/lec05_stability.pdf)
@@ -18,7 +18,7 @@
 
 
 
-### Посиделки 3-5: матричные разложения
+## Посиделки 3-5: матричные разложения
 
 - [Видео 1: LU-разложение](https://youtu.be/NzJWQRya9OA)
 - [Видео 2: QR-разложение](https://youtu.be/VEyWW2665Us)
@@ -33,13 +33,10 @@
 - [Видос про решение систем и LU-разложения](https://www.youtube.com/watch?v=zReIMeZseys&list=PLcsjsqLLSfNAp7iztz2H8iSP2vu79dIbW&index=5) от Ивана Оселедец. Я отсюда спёр задачу с вычислением матрицы, у него в лекции есть примеры про устойчивость LU в питоне. Но про это у нас ещё потом будет разговор. 
 - [Видос про вывод LU разложения от MIT.](https://www.youtube.com/watch?v=MsIvs_6vC38&list=PLE7DDD91010BC51F8&index=5) Все остальные видео из этого плейлиста тоже можно смотреть. Это добротный курс линала.
 - Можно ещё почитать конспект Димы Трушина по линалу, его вы найдёте в канале для базовой классной группы.
-
-
 - [Конспект про сингулярное разложение,](http://vmath.ru/vf5/algebra2/svd) вообще у ребят на этом сайте [много годных конспектов](http://vmath.ru/vf5/content) на разные сложные темы
 - [Неделя курса Демешева про спектральное разложение](https://www.youtube.com/watch?v=UlnIaoiudm8&list=PLCf-cQCe1FRz9PX3BGfyPoM6fjq4nR0EQ), [неделя про SVD](https://www.youtube.com/watch?v=9hOI2wZJxtA&list=PLCf-cQCe1FRyCxLe_4ADCL5QXvN_Zl8Kh)
 - Мой [конспект про PCA](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem12-pca.pdf) для семинара на ФКН, [питоновская тетрадк](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem12_pca_tsne.ipynb) для него же
 - [PCA в картинках](https://setosa.io/ev/principal-component-analysis/)
-
 - Конспект [лекции про спектральную кластеризацию](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/lecture-notes/lecture17-clusterization.pdf) с ФКН, [конспект семинара про неё.](https://github.com/esokolov/ml-course-hse/blob/master/2021-spring/seminars/sem18-graph-clustering.pdf) Структура такая: на лекции были основные идеи, на семинаре доказательство эквивалентности графового подхода и подхода через собственные вектора. [Видео с лекции](https://youtu.be/4CJUXlfFcM4?si=800BhcUUnR3PphQu&t=2071) Жени, [видео моего семинара](https://www.youtube.com/watch?v=y_a2DVsYM_o&feature=youtu.be) с этой весны. 
 - Милый [видос про матрицы для самых маленьких](https://www.youtube.com/watch?v=Or119IXozCM&t=1s)
 
@@ -49,7 +46,7 @@
 
 
 
-### Посиделки 1-2: матричные производные
+## Посиделки 1-2: матричные производные
 
 - [Видео 1](https://youtu.be/DvPfB113OdY), [видео 2](https://youtu.be/cybdNfzKp_4)
 - [Конспект с пары](https://github.com/FUlyankin/yet_another_math_for_DS/blob/main/lectures_hand_2023/advanced_group/lec01-02_matrix_diff.pdf)

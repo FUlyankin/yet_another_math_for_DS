@@ -1,5 +1,34 @@
 # Логи пар базовой группы
 
+### Посиделка 6: линейные операторы, спектральное разложение, билинейные формы
+
+- [видео 1](https://youtu.be/I5wRy7aOOEA) и [видео 2](https://youtu.be/gDCDxxNj2AM)
+- На мой взгляд посиделка 5 и 6 вышли не очень удачными. Рекомендую вместо моих видео посмотреть [неделю 4](https://www.youtube.com/watch?v=UlnIaoiudm8&list=PLCf-cQCe1FRz9PX3BGfyPoM6fjq4nR0EQ) и [неделю 5](https://www.youtube.com/watch?v=YHHVs6cMbsY&list=PLCf-cQCe1FRy1xhlw0ilxddn-01hhhKU9&index=4) из курса Бориса Демешева.
+
+### Посиделка 5: линейные отображения и проекторы
+
+- [видео 1](https://youtu.be/xOYYJ6fmXek) и [видео 2](https://youtu.be/mtAZ1rTyTl8)
+
+
+### Посиделка 4: линейные пространства 
+
+- [видео 1](https://youtu.be/hF0FA5tmC6E) и [видео 2](https://youtu.be/bqMERm5Bd7A)
+
+
+### Посиделка 3: определители
+
+- [видео 1](https://youtu.be/largAv6vwts) и [видео 2](https://youtu.be/-X0ZmAANOVU)
+
+И помните, [дельта альфа альфа штрих.](https://www.youtube.com/watch?v=3SlR06ogDgg)
+
+### Посиделка 2: СЛАУ и матрицы 
+
+- [видео 1](https://youtu.be/vsC0A2ajLIo) и [видео 2](https://youtu.be/wxXLhEgZBZM)
+- Лекции по линалу я беру у Димы Трушина. [Читайте его конспект.](https://github.com/DimaTrushin/LinearAlgebra/blob/master/main.pdf)
+- Также смотрите [курс Бориса Демешева.](https://www.youtube.com/watch?v=OErVswuyx0w&list=PLCf-cQCe1FRw6Zk0o4d3bV7dvGotY8E7h) Он отличный!
+- Ещё можно смотреть [курс от MIT.](https://www.youtube.com/watch?v=J7DzL2_Na80&list=PLE7DDD91010BC51F8&index=2)
+
+
 ### Посиделка 1: множества 
 
 - [Видео](https://youtu.be/WuqrxwajiJI)

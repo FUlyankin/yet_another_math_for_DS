@@ -5,7 +5,7 @@
 
 ## Полезные ссылки 
 
-- Записи лекций: [youtube](https://youtube.com/playlist?list=PLNKXA-74YGLi-tgx8nOi-R9Dm3AbsPSX_&si=6BtIlzSNGf_rBpDA), [yandex-disk]( )
+- Записи лекций: [youtube](https://youtube.com/playlist?list=PLNKXA-74YGLi-tgx8nOi-R9Dm3AbsPSX_&si=6BtIlzSNGf_rBpDA), [yandex-disk](https://disk.yandex.ru/d/5nwoniVGoeHk3A)
 - Продолжение курса: [yet another matstat course](https://github.com/FUlyankin/yet_another_matstat_course)
 
 
